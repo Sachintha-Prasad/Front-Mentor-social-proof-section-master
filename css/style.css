@@ -28,7 +28,7 @@ body {
 }
 
 .container {
-  width: min(90%, 82rem);
+  width: min(98%, 82rem);
   margin: 4rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
